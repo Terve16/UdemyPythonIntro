@@ -2,12 +2,7 @@ data/
 logs/
 models/
 .vscode/
-settings.json
-launch.json
-tasks.json
 .benchmarks/
-
-Chapter1_Intro/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
